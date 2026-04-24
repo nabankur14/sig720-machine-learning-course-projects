@@ -71,21 +71,22 @@ While each project addresses a unique domain, they adhere to a strict, industry-
 1. Prerequisites
 Ensure you have Python 3.8+ installed. It is highly recommended to use a virtual environment.
 
-Installation
-Clone the repository:
+### Installation
 
-Bash
-git clone https://github.com/nabankur14/Applied-Machine-Learning-Portfolio.git
-cd Applied-Machine-Learning-Portfolio
-Create and activate a virtual environment:
+1. **Clone the repository:**
 
-Bash
+```bash
+git clone https://github.com/nabankur14/sig720-machine-learning-course-projects.git
+cd sig720-machine-learning-course-projects
+```
+2. **Create and activate a virtual environment:**
+
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
 
-Launch a specific project notebook:
-
-Bash
+3. **Launch a specific project notebook:**
 ```bash
 jupyter notebook "1-Cross-Domain-Data-preprocessing _ K-Means _ PCA.ipynb"
 ```

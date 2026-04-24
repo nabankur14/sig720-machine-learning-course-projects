@@ -8,22 +8,6 @@
 
 ---
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Business Problem](#business-problem)
-- [Dataset](#dataset)
-- [Methodology](#methodology)
-- [Key Results](#key-results)
-- [Business Impact](#business-impact)
-- [Skills](#skills)
-- [Key Learnings](#key-learnings)
-- [Repository Structure](#repository-structure)
-- [How to Run](#how-to-run)
-- [Future Improvements](#future-improvements)
-- [Author](#-author)
-
----
-
 ## Project Directory
 
 | No. | Project                              | Domain                     | Description |

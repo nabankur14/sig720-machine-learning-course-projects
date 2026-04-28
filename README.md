@@ -51,6 +51,12 @@ Machine Learning Capabilities
 
 - **Model Evaluation:** K-Fold Cross Validation, ROC-AUC, Matthews Correlation Coefficient (MCC), F1-Score, Adjusted Rand Index (ARI), Platt Scaling (Probability Calibration).
 
+## 🚀 Featured Deployment: Real Estate Price Prediction (Task 5)
+
+As part of the fifth project, a robust machine learning model (utilizing XGBoost and Random Forest) for predicting urban property values has been fully serialized and deployed as an interactive web application. This demonstrates the complete MLOps lifecycle, transitioning from model training to production deployment.
+
+- **Live Application:** [Streamlit Web App](https://house-price1-7xejatqm52axwjwiprxumh.streamlit.app/)
+- **Application Source Code:** [GitHub Repository](https://github.com/nabankur14/House-Price-Prediction-App)
 
 ## Unified Methodology
 While each project addresses a unique domain, they adhere to a strict, industry-standard machine learning pipeline:
